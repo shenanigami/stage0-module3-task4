@@ -7,6 +7,9 @@ public class IntRepresentation {
         char a = 97;
         char r = 114;
 
-        System.out.println(c + "" + h + "" + a + "" + r);
+        System.out.println(c);
+        System.out.println(h);
+        System.out.println(a);
+        System.out.println(r);
     }
 }
